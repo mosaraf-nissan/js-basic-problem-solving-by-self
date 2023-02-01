@@ -1,0 +1,3 @@
+var nissan={
+    boy: 'honest',
+}
